@@ -71,3 +71,12 @@ console.log("eh - true && false:" , eh)
 var ou = 5 == 5 || false;
 console.log("ou - 5 == 5 || false:" , ou)
 
+/**
+ * Operador Ternário ?: (termo1? termo2: termo3)
+ * 
+ */
+
+var precoProduto = 50.12;
+var nivel = 3;
+var preco = (nivel < 3 ? precoProduto - (precoProduto * 0.1) : precoProduto - (precoProduto * 0.2));
+console.log(preco)

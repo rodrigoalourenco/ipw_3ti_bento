@@ -1,3 +1,9 @@
-h1 {
+body {
     color: red;
+    text-align: center;
+}
+
+p {
+    color: green;
+    background-color: yellow;
 }
