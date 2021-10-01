@@ -1,1 +1,1 @@
-console.log("Ola Mundo Js");
+alert("Ola Mundo Js");
