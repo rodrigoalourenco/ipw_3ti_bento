@@ -4,3 +4,9 @@ elemento.onclick = function() {
     .getElementById('nome').value;
     console.log(valor);
 }
+
+function enviar() {
+    var valor = document
+    .getElementById('entradaDados').value;
+    console.log("Você digitou : " + valor);
+}
