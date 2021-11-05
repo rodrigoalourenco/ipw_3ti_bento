@@ -85,4 +85,3 @@ function updateRecord(data) {
     selectedRow.cells[2].innerHTML = data.salary;
     selectedRow.cells[3].innerHTML = data.city;
 }
-T
